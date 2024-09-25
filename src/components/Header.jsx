@@ -43,7 +43,7 @@ export default function Header() {
             href="/map"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
-            Map
+            Harita
           </a>
           <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
             My Listings
